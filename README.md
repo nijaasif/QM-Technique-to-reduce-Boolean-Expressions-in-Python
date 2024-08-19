@@ -1,0 +1,1 @@
+# QM-Technique-to-reduce-Boolean-Expressions-in-Python
